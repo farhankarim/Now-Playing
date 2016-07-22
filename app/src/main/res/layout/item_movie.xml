@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:configChanges="orientation">
+
+    <ImageView
+        android:id="@+id/ivMovieImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/tvOverview"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:contentDescription="@string/image"
+        android:padding="1dp"
+        android:src="@drawable/iconmonstrplaceholder"
+        tools:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/ivMovieImage"
+        android:layout_marginBottom="3dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_toEndOf="@+id/ivMovieImage"
+        android:padding="1dp"
+        android:textAlignment="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:text="Secret Lives Of Pies" />
+
+    <TextView
+        android:id="@+id/tvOverview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvTitle"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_toEndOf="@+id/ivMovieImage"
+        android:ellipsize="end"
+        android:maxLines="6"
+        android:nestedScrollingEnabled="false"
+        android:padding="1dp"
+        tools:text="The action comedy is set in a Manhattan apartment building. After the two-legged residents head for work and school, their pets gather to start their day, which consists of hanging out, trading humiliating stories about their owners, and helping each other work up adorable looks that will lead to more snacks. The head hound is a quick-witted terrier rescue (Louis C.K.), whose position at the epicenter of his master’s universe is suddenly threatened when she comes home with Duke (Stonestreet), a sloppy mongrel with no polish. The two soon find themselves on the mean streets of New York, where they meet the adorable white bunny Snowball (Hart). It turns out that Snowball is the leader of an army of pets that were abandoned and are determined to get back at humanity and every owner-loving pet. The dogs must thwart this plot and make it back in time for dinner." />
+
+    <Button
+        android:id="@+id/bviewMore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvOverview"
+        android:layout_toEndOf="@+id/ivMovieImage"
+        android:text="@string/view_more" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/ivMovieImage"
+        android:layout_alignEnd="@+id/ivMovieImage"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tvTitle"
+        android:background="@color/colorPrimaryDark"
+        android:progress="@android:integer/config_shortAnimTime" />
+
+</RelativeLayout>
