@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\UNKNOWN\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.2.1\d6f54d76edfbe779a50a8636b10fd3f555d8f780\butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.2.1_4ff4373711b3bbb4dfc5f7e6cc5282bafcb3a225\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_aef432bb34a4c197089213b4dd2a45dfcf8ca650\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_af8160a28656ffaed3912d3556f44d40b683ed88\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_aa409aa7365c04e1d52cbddaefde907de1a3ceac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_70738338295e2701c3f1c231be83ffe7c8276561\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_6e7513cfbab86e8738ae1a5c820964a097017a53\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4eaa7ba3d000ed439cf24758db5b13170260a62d">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b2450f498c48a9622881b7817e771cf450b72fe7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.2.1_7da5894e889a011d4d9c931f664aa7f25b03bbe7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_e9810a87d8d2301dfc99465ac27b9f85c67d34a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08d101db7fbdd85222f0c2559efc5062dafb4a99">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fc3ffd0ba27064cfb54101259b60cba8647a39b3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_c38b60a7fbed06f716d4057a5642642ea762a4a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="17db3980ff091646eb4c4131d2fce67288dacb58">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e11cd56b5d14b963235b55d984005918f86a8acf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\exploded-aar\jp.co.cyberagent.android.gpuimage\gpuimage-library\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.co.cyberagent.android.gpuimage-gpuimage-library-1.4.1_a28a083d1fc87a08ede55c34782b4f90bd3a5fbd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec65a34ef6738554dd329fc973ba4513d2c9da0a">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d503035c50cb4eb8defe3fad0723b1c1e6bd1896\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.2.1_16ae92af00c23b7ff704b44a177cc91c0fcdbae9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7a6e8628f92e25db200c8d30e468baedeb90b78b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_6e2e15d6cc2a042d0544ce4c507033d1767256af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5525a8abfc19eb26fbe5ca3126322000a24ed01c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\exploded-aar\jp.wasabeef\picasso-transformations\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3fb1fe781490fcf9fa47ee2c268279f777266a6a">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-picasso-transformations-2.1.0_7378c6caddb7c12474758e6c6d04311ad03ef5e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c98c6cf503aab321f27e80786109585fff760afe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_9884793eba2aa134ed70bbfee17dc9d5d464f314\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\exploded-aar\jp.co.cyberagent.android.gpuimage\gpuimage-library\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eb9f1cef6b29492df701111c555908cb53dece35">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.co.cyberagent.android.gpuimage-gpuimage-library-1.4.1_66c7c94fbe682e274f737b2aa3fffa722b88fc50\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\exploded-aar\jp.wasabeef\picasso-transformations\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3fb1fe781490fcf9fa47ee2c268279f777266a6a">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT2\app\build\intermediates\transforms\dex\debug\folders\1000\10\jp.wasabeef-picasso-transformations-2.1.0_f17e0078ed3e47070c2d6b4331c9ec6ef59ab697\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_5d74f18460ff3902f4d2f029732dccf9fc2b9dca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\UNKNOWN\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\UNKNOWN\AndroidStudioProjects\FLICKSTERPROJECT\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_aa5ccb686aaba168ede03e081cb76751d8a2f75f\classes.dex" />
+    </item>
+
+</items>
